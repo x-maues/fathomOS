@@ -1,5 +1,7 @@
 # fathomOS: Operational IDE for SREs
 
+![fathomOS Landing Page](landing.png)
+
 fathomOS is an AI-assisted operational IDE ("Cursor for SREs") that uses Coral to query multiple data sources. 
 
 It fundamentally re-architects incident response by replacing scattered dashboard investigations with a unified, iterative SQL workspace. 
@@ -7,6 +9,9 @@ It fundamentally re-architects incident response by replacing scattered dashboar
 Instead of writing glue code to connect Datadog, PagerDuty, GitHub, and Sentry, fathomOS uses **Coral SQL** to join massive, multi-source datasets entirely locally in milliseconds. The AI acts as an assistant—translating operational context into cross-source Coral SQL—while the engineer retains full execution control.
 
 ## Our Product
+
+![fathomOS Investigation Workspace](image.png)
+
 * **Evidence First:** Replaces generic AI chatbot markdown with structured Operational Evidence Cards (PagerDuty, Sentry, GitHub, Datadog, StatusGator).
 * **Iterative Investigation:** A persistent timeline log tracks query evolution. Say "filter for fatal errors" and watch the AI dynamically refine the Coral SQL query.
 * **Auto/Manual Execution:** Toggle between safe manual review of AI-generated queries, or blazing-fast auto-execution for lightning incident response. 
