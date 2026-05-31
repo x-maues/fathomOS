@@ -1,0 +1,101 @@
+{"pr_number": 94, "title": "chore: update dependencies", "repository": "coral-payments", "merged_at": "2026-05-25T19:05:00Z", "author": "sec-expert"}
+{"pr_number": 92, "title": "fix: typo in readme", "repository": "coral-auth", "merged_at": "2026-05-26T07:31:00Z", "author": "backend-boss"}
+{"pr_number": 61, "title": "fix: typo in readme", "repository": "coral-search", "merged_at": "2026-05-26T01:31:00Z", "author": "backend-boss"}
+{"pr_number": 114, "title": "chore: update dependencies", "repository": "coral-payments", "merged_at": "2026-05-26T03:55:00Z", "author": "frontend-guru"}
+{"pr_number": 131, "title": "fix: typo in readme", "repository": "coral-payments", "merged_at": "2026-05-25T17:37:00Z", "author": "sec-expert"}
+{"pr_number": 119, "title": "feat: add new endpoint", "repository": "coral-inventory", "merged_at": "2026-05-26T02:45:00Z", "author": "frontend-guru"}
+{"pr_number": 60, "title": "fix: typo in readme", "repository": "coral-payments", "merged_at": "2026-05-26T05:30:00Z", "author": "dev-pirate"}
+{"pr_number": 74, "title": "fix: typo in readme", "repository": "coral-notifications", "merged_at": "2026-05-26T06:57:00Z", "author": "frontend-guru"}
+{"pr_number": 99, "title": "chore: update dependencies", "repository": "coral-inventory", "merged_at": "2026-05-26T05:07:00Z", "author": "data-wizard"}
+{"pr_number": 66, "title": "fix: typo in readme", "repository": "coral-notifications", "merged_at": "2026-05-26T07:58:00Z", "author": "backend-boss"}
+{"pr_number": 117, "title": "feat: add new endpoint", "repository": "coral-auth", "merged_at": "2026-05-26T09:04:00Z", "author": "data-wizard"}
+{"pr_number": 56, "title": "fix: typo in readme", "repository": "coral-search", "merged_at": "2026-05-25T23:54:00Z", "author": "dev-pirate"}
+{"pr_number": 136, "title": "refactor: cleanup unused vars", "repository": "coral-users", "merged_at": "2026-05-25T23:02:00Z", "author": "sec-expert"}
+{"pr_number": 120, "title": "refactor: cleanup unused vars", "repository": "coral-billing", "merged_at": "2026-05-26T09:25:00Z", "author": "ops-ninja"}
+{"pr_number": 80, "title": "feat: add new endpoint", "repository": "coral-payments", "merged_at": "2026-05-26T10:27:00Z", "author": "dev-pirate"}
+{"pr_number": 133, "title": "feat: add new endpoint", "repository": "coral-notifications", "merged_at": "2026-05-26T07:42:00Z", "author": "dev-pirate"}
+{"pr_number": 111, "title": "fix: typo in readme", "repository": "coral-billing", "merged_at": "2026-05-26T11:40:00Z", "author": "dev-pirate"}
+{"pr_number": 134, "title": "refactor: cleanup unused vars", "repository": "coral-billing", "merged_at": "2026-05-25T22:55:00Z", "author": "sec-expert"}
+{"pr_number": 58, "title": "chore: update dependencies", "repository": "coral-payments", "merged_at": "2026-05-26T11:07:00Z", "author": "dev-pirate"}
+{"pr_number": 108, "title": "chore: update dependencies", "repository": "coral-payments", "merged_at": "2026-05-25T20:00:00Z", "author": "data-wizard"}
+{"pr_number": 130, "title": "fix: typo in readme", "repository": "coral-inventory", "merged_at": "2026-05-26T11:24:00Z", "author": "frontend-guru"}
+{"pr_number": 86, "title": "fix: typo in readme", "repository": "coral-billing", "merged_at": "2026-05-26T08:50:00Z", "author": "dev-pirate"}
+{"pr_number": 84, "title": "feat: add new endpoint", "repository": "coral-payments", "merged_at": "2026-05-26T01:59:00Z", "author": "ops-ninja"}
+{"pr_number": 123, "title": "fix: typo in readme", "repository": "coral-inventory", "merged_at": "2026-05-26T09:33:00Z", "author": "backend-boss"}
+{"pr_number": 53, "title": "chore: update dependencies", "repository": "coral-auth", "merged_at": "2026-05-26T10:42:00Z", "author": "backend-boss"}
+{"pr_number": 112, "title": "fix: typo in readme", "repository": "coral-billing", "merged_at": "2026-05-26T10:53:00Z", "author": "frontend-guru"}
+{"pr_number": 67, "title": "refactor: cleanup unused vars", "repository": "coral-inventory", "merged_at": "2026-05-26T05:50:00Z", "author": "dev-pirate"}
+{"pr_number": 142, "title": "fix: typo in readme", "repository": "coral-notifications", "merged_at": "2026-05-25T20:55:00Z", "author": "sec-expert"}
+{"pr_number": 89, "title": "feat: upgrade redis client library", "repository": "coral-auth", "merged_at": "2026-05-26T09:30:00Z", "author": "dev-pirate"}
+{"pr_number": 70, "title": "chore: update dependencies", "repository": "coral-users", "merged_at": "2026-05-25T21:24:00Z", "author": "frontend-guru"}
+{"pr_number": 116, "title": "chore: update dependencies", "repository": "coral-payments", "merged_at": "2026-05-25T23:03:00Z", "author": "ops-ninja"}
+{"pr_number": 110, "title": "feat: add new endpoint", "repository": "coral-notifications", "merged_at": "2026-05-26T04:54:00Z", "author": "backend-boss"}
+{"pr_number": 146, "title": "refactor: cleanup unused vars", "repository": "coral-users", "merged_at": "2026-05-25T22:43:00Z", "author": "ops-ninja"}
+{"pr_number": 96, "title": "refactor: cleanup unused vars", "repository": "coral-users", "merged_at": "2026-05-25T20:39:00Z", "author": "data-wizard"}
+{"pr_number": 72, "title": "feat: add new endpoint", "repository": "coral-notifications", "merged_at": "2026-05-26T00:14:00Z", "author": "sec-expert"}
+{"pr_number": 149, "title": "feat: add new endpoint", "repository": "coral-payments", "merged_at": "2026-05-26T11:01:00Z", "author": "ops-ninja"}
+{"pr_number": 55, "title": "fix: typo in readme", "repository": "coral-inventory", "merged_at": "2026-05-25T22:07:00Z", "author": "data-wizard"}
+{"pr_number": 95, "title": "feat: add new endpoint", "repository": "coral-billing", "merged_at": "2026-05-26T09:35:00Z", "author": "sec-expert"}
+{"pr_number": 127, "title": "fix: typo in readme", "repository": "coral-users", "merged_at": "2026-05-26T10:41:00Z", "author": "sec-expert"}
+{"pr_number": 71, "title": "fix: typo in readme", "repository": "coral-inventory", "merged_at": "2026-05-25T21:57:00Z", "author": "backend-boss"}
+{"pr_number": 132, "title": "feat: add new endpoint", "repository": "coral-billing", "merged_at": "2026-05-26T07:18:00Z", "author": "dev-pirate"}
+{"pr_number": 85, "title": "chore: update dependencies", "repository": "coral-auth", "merged_at": "2026-05-25T20:41:00Z", "author": "backend-boss"}
+{"pr_number": 59, "title": "chore: update dependencies", "repository": "coral-payments", "merged_at": "2026-05-25T20:33:00Z", "author": "backend-boss"}
+{"pr_number": 118, "title": "feat: add new endpoint", "repository": "coral-notifications", "merged_at": "2026-05-26T08:14:00Z", "author": "frontend-guru"}
+{"pr_number": 68, "title": "refactor: cleanup unused vars", "repository": "coral-auth", "merged_at": "2026-05-25T22:52:00Z", "author": "ops-ninja"}
+{"pr_number": 101, "title": "feat: add new endpoint", "repository": "coral-billing", "merged_at": "2026-05-26T10:17:00Z", "author": "backend-boss"}
+{"pr_number": 147, "title": "refactor: cleanup unused vars", "repository": "coral-users", "merged_at": "2026-05-25T22:27:00Z", "author": "sec-expert"}
+{"pr_number": 139, "title": "feat: add new endpoint", "repository": "coral-search", "merged_at": "2026-05-26T00:03:00Z", "author": "data-wizard"}
+{"pr_number": 62, "title": "fix: typo in readme", "repository": "coral-notifications", "merged_at": "2026-05-26T07:30:00Z", "author": "dev-pirate"}
+{"pr_number": 141, "title": "fix: typo in readme", "repository": "coral-inventory", "merged_at": "2026-05-25T20:52:00Z", "author": "frontend-guru"}
+{"pr_number": 82, "title": "feat: add new endpoint", "repository": "coral-auth", "merged_at": "2026-05-25T19:44:00Z", "author": "frontend-guru"}
+{"pr_number": 98, "title": "feat: add new endpoint", "repository": "coral-search", "merged_at": "2026-05-26T04:38:00Z", "author": "frontend-guru"}
+{"pr_number": 104, "title": "chore: update dependencies", "repository": "coral-auth", "merged_at": "2026-05-26T07:54:00Z", "author": "backend-boss"}
+{"pr_number": 144, "title": "refactor: cleanup unused vars", "repository": "coral-payments", "merged_at": "2026-05-25T21:49:00Z", "author": "backend-boss"}
+{"pr_number": 93, "title": "fix: typo in readme", "repository": "coral-search", "merged_at": "2026-05-26T09:07:00Z", "author": "data-wizard"}
+{"pr_number": 79, "title": "feat: add new endpoint", "repository": "coral-users", "merged_at": "2026-05-26T02:43:00Z", "author": "backend-boss"}
+{"pr_number": 145, "title": "fix: typo in readme", "repository": "coral-users", "merged_at": "2026-05-25T23:57:00Z", "author": "data-wizard"}
+{"pr_number": 125, "title": "chore: update dependencies", "repository": "coral-search", "merged_at": "2026-05-26T03:12:00Z", "author": "frontend-guru"}
+{"pr_number": 115, "title": "fix: typo in readme", "repository": "coral-auth", "merged_at": "2026-05-26T03:12:00Z", "author": "sec-expert"}
+{"pr_number": 107, "title": "refactor: cleanup unused vars", "repository": "coral-users", "merged_at": "2026-05-26T00:56:00Z", "author": "sec-expert"}
+{"pr_number": 76, "title": "chore: update dependencies", "repository": "coral-billing", "merged_at": "2026-05-25T17:27:00Z", "author": "sec-expert"}
+{"pr_number": 97, "title": "feat: add new endpoint", "repository": "coral-notifications", "merged_at": "2026-05-25T21:57:00Z", "author": "data-wizard"}
+{"pr_number": 124, "title": "feat: add new endpoint", "repository": "coral-inventory", "merged_at": "2026-05-26T07:20:00Z", "author": "data-wizard"}
+{"pr_number": 135, "title": "fix: typo in readme", "repository": "coral-payments", "merged_at": "2026-05-26T04:38:00Z", "author": "sec-expert"}
+{"pr_number": 88, "title": "feat: add new endpoint", "repository": "coral-notifications", "merged_at": "2026-05-26T01:47:00Z", "author": "ops-ninja"}
+{"pr_number": 109, "title": "fix: typo in readme", "repository": "coral-users", "merged_at": "2026-05-25T18:41:00Z", "author": "dev-pirate"}
+{"pr_number": 113, "title": "refactor: cleanup unused vars", "repository": "coral-inventory", "merged_at": "2026-05-25T20:04:00Z", "author": "frontend-guru"}
+{"pr_number": 143, "title": "chore: update dependencies", "repository": "coral-notifications", "merged_at": "2026-05-26T07:07:00Z", "author": "frontend-guru"}
+{"pr_number": 78, "title": "refactor: cleanup unused vars", "repository": "coral-billing", "merged_at": "2026-05-26T10:45:00Z", "author": "frontend-guru"}
+{"pr_number": 73, "title": "refactor: cleanup unused vars", "repository": "coral-notifications", "merged_at": "2026-05-26T06:00:00Z", "author": "sec-expert"}
+{"pr_number": 138, "title": "refactor: cleanup unused vars", "repository": "coral-payments", "merged_at": "2026-05-26T11:57:00Z", "author": "data-wizard"}
+{"pr_number": 105, "title": "chore: update dependencies", "repository": "coral-users", "merged_at": "2026-05-26T00:33:00Z", "author": "backend-boss"}
+{"pr_number": 137, "title": "feat: add new endpoint", "repository": "coral-users", "merged_at": "2026-05-26T10:17:00Z", "author": "data-wizard"}
+{"pr_number": 64, "title": "refactor: cleanup unused vars", "repository": "coral-billing", "merged_at": "2026-05-26T09:32:00Z", "author": "sec-expert"}
+{"pr_number": 81, "title": "feat: add new endpoint", "repository": "coral-users", "merged_at": "2026-05-26T11:58:00Z", "author": "backend-boss"}
+{"pr_number": 65, "title": "feat: add new endpoint", "repository": "coral-auth", "merged_at": "2026-05-25T21:11:00Z", "author": "data-wizard"}
+{"pr_number": 54, "title": "refactor: cleanup unused vars", "repository": "coral-auth", "merged_at": "2026-05-26T06:51:00Z", "author": "dev-pirate"}
+{"pr_number": 122, "title": "refactor: cleanup unused vars", "repository": "coral-users", "merged_at": "2026-05-25T17:56:00Z", "author": "backend-boss"}
+{"pr_number": 87, "title": "refactor: cleanup unused vars", "repository": "coral-billing", "merged_at": "2026-05-25T19:36:00Z", "author": "data-wizard"}
+{"pr_number": 129, "title": "refactor: cleanup unused vars", "repository": "coral-auth", "merged_at": "2026-05-26T11:13:00Z", "author": "ops-ninja"}
+{"pr_number": 57, "title": "fix: typo in readme", "repository": "coral-search", "merged_at": "2026-05-26T01:03:00Z", "author": "backend-boss"}
+{"pr_number": 91, "title": "fix: typo in readme", "repository": "coral-auth", "merged_at": "2026-05-26T09:36:00Z", "author": "sec-expert"}
+{"pr_number": 126, "title": "feat: add new endpoint", "repository": "coral-auth", "merged_at": "2026-05-26T04:52:00Z", "author": "dev-pirate"}
+{"pr_number": 150, "title": "refactor: cleanup unused vars", "repository": "coral-billing", "merged_at": "2026-05-26T11:17:00Z", "author": "ops-ninja"}
+{"pr_number": 121, "title": "refactor: cleanup unused vars", "repository": "coral-users", "merged_at": "2026-05-26T04:04:00Z", "author": "frontend-guru"}
+{"pr_number": 51, "title": "fix: typo in readme", "repository": "coral-inventory", "merged_at": "2026-05-26T11:50:00Z", "author": "dev-pirate"}
+{"pr_number": 52, "title": "refactor: cleanup unused vars", "repository": "coral-users", "merged_at": "2026-05-26T06:49:00Z", "author": "sec-expert"}
+{"pr_number": 128, "title": "refactor: cleanup unused vars", "repository": "coral-payments", "merged_at": "2026-05-25T19:03:00Z", "author": "data-wizard"}
+{"pr_number": 63, "title": "refactor: cleanup unused vars", "repository": "coral-payments", "merged_at": "2026-05-26T09:32:00Z", "author": "sec-expert"}
+{"pr_number": 75, "title": "chore: update dependencies", "repository": "coral-notifications", "merged_at": "2026-05-25T17:53:00Z", "author": "sec-expert"}
+{"pr_number": 83, "title": "refactor: cleanup unused vars", "repository": "coral-billing", "merged_at": "2026-05-25T22:30:00Z", "author": "data-wizard"}
+{"pr_number": 148, "title": "feat: add new endpoint", "repository": "coral-notifications", "merged_at": "2026-05-26T05:42:00Z", "author": "sec-expert"}
+{"pr_number": 90, "title": "fix: typo in readme", "repository": "coral-billing", "merged_at": "2026-05-25T21:19:00Z", "author": "frontend-guru"}
+{"pr_number": 140, "title": "feat: add new endpoint", "repository": "coral-inventory", "merged_at": "2026-05-26T09:51:00Z", "author": "frontend-guru"}
+{"pr_number": 69, "title": "feat: add new endpoint", "repository": "coral-search", "merged_at": "2026-05-26T00:55:00Z", "author": "frontend-guru"}
+{"pr_number": 77, "title": "fix: typo in readme", "repository": "coral-payments", "merged_at": "2026-05-26T10:34:00Z", "author": "ops-ninja"}
+{"pr_number": 106, "title": "feat: add new endpoint", "repository": "coral-inventory", "merged_at": "2026-05-26T08:20:00Z", "author": "backend-boss"}
+{"pr_number": 89, "title": "chore: update dependencies", "repository": "coral-notifications", "merged_at": "2026-05-26T07:57:00Z", "author": "dev-pirate"}
+{"pr_number": 100, "title": "fix: typo in readme", "repository": "coral-inventory", "merged_at": "2026-05-26T00:26:00Z", "author": "sec-expert"}
+{"pr_number": 103, "title": "refactor: cleanup unused vars", "repository": "coral-inventory", "merged_at": "2026-05-25T17:28:00Z", "author": "data-wizard"}
+{"pr_number": 102, "title": "refactor: cleanup unused vars", "repository": "coral-auth", "merged_at": "2026-05-25T20:10:00Z", "author": "backend-boss"}

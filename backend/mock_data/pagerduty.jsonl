@@ -1,0 +1,201 @@
+{"incident_number": "1034", "title": "Memory Warning", "service": "payment-gateway", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T11:32:00Z"}
+{"incident_number": "1040", "title": "Memory Warning", "service": "user-db", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T09:44:00Z"}
+{"incident_number": "1103", "title": "Elevated Latency", "service": "billing-service", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T10:01:00Z"}
+{"incident_number": "1142", "title": "High CPU Usage", "service": "search-api", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T10:34:00Z"}
+{"incident_number": "1058", "title": "Database Connection Drops", "service": "billing-service", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T10:28:00Z"}
+{"incident_number": "1120", "title": "Database Connection Drops", "service": "inventory-db", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T10:30:00Z"}
+{"incident_number": "1178", "title": "Memory Warning", "service": "notification-worker", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T10:23:00Z"}
+{"incident_number": "1121", "title": "Database Connection Drops", "service": "inventory-db", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T08:42:00Z"}
+{"incident_number": "1117", "title": "Elevated Latency", "service": "billing-service", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T11:26:00Z"}
+{"incident_number": "1073", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T09:58:00Z"}
+{"incident_number": "1070", "title": "Database Connection Drops", "service": "auth-service", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T09:49:00Z"}
+{"incident_number": "1181", "title": "Database Connection Drops", "service": "notification-worker", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T10:30:00Z"}
+{"incident_number": "1162", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T10:50:00Z"}
+{"incident_number": "1190", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T11:29:00Z"}
+{"incident_number": "1179", "title": "Queue Backup", "service": "user-db", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T09:00:00Z"}
+{"incident_number": "1030", "title": "Database Connection Drops", "service": "search-api", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T09:28:00Z"}
+{"incident_number": "1049", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T09:38:00Z"}
+{"incident_number": "1147", "title": "Queue Backup", "service": "inventory-db", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T08:41:00Z"}
+{"incident_number": "1170", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T08:39:00Z"}
+{"incident_number": "1198", "title": "Database Connection Drops", "service": "search-api", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T09:56:00Z"}
+{"incident_number": "1096", "title": "High CPU Usage", "service": "inventory-db", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T08:22:00Z"}
+{"incident_number": "1100", "title": "High CPU Usage", "service": "notification-worker", "repository": "coral-inventory", "urgency": "high", "created_at": "2026-05-26T10:43:00Z"}
+{"incident_number": "1116", "title": "Queue Backup", "service": "search-api", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T08:21:00Z"}
+{"incident_number": "1086", "title": "Elevated Latency", "service": "billing-service", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T09:04:00Z"}
+{"incident_number": "1038", "title": "Database Connection Drops", "service": "search-api", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T11:23:00Z"}
+{"incident_number": "1140", "title": "Memory Warning", "service": "search-api", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T10:30:00Z"}
+{"incident_number": "1191", "title": "Queue Backup", "service": "auth-service", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T09:16:00Z"}
+{"incident_number": "1131", "title": "Elevated Latency", "service": "auth-service", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T09:03:00Z"}
+{"incident_number": "1172", "title": "Memory Warning", "service": "search-api", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T08:33:00Z"}
+{"incident_number": "1122", "title": "Queue Backup", "service": "user-db", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T10:20:00Z"}
+{"incident_number": "1017", "title": "Queue Backup", "service": "notification-worker", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T09:05:00Z"}
+{"incident_number": "1069", "title": "Elevated Latency", "service": "notification-worker", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T11:14:00Z"}
+{"incident_number": "1176", "title": "Elevated Latency", "service": "billing-service", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T08:23:00Z"}
+{"incident_number": "1137", "title": "Database Connection Drops", "service": "notification-worker", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T11:45:00Z"}
+{"incident_number": "1098", "title": "Database Connection Drops", "service": "user-db", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T10:15:00Z"}
+{"incident_number": "1020", "title": "Memory Warning", "service": "notification-worker", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T09:11:00Z"}
+{"incident_number": "1189", "title": "Queue Backup", "service": "payment-gateway", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T08:18:00Z"}
+{"incident_number": "1025", "title": "Memory Warning", "service": "inventory-db", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T08:55:00Z"}
+{"incident_number": "1102", "title": "Database Connection Drops", "service": "inventory-db", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T10:50:00Z"}
+{"incident_number": "1029", "title": "High CPU Usage", "service": "search-api", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T11:10:00Z"}
+{"incident_number": "1064", "title": "Database Connection Drops", "service": "search-api", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T08:49:00Z"}
+{"incident_number": "1174", "title": "High CPU Usage", "service": "auth-service", "repository": "coral-auth", "urgency": "high", "created_at": "2026-05-26T08:20:00Z"}
+{"incident_number": "1171", "title": "High CPU Usage", "service": "user-db", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T11:35:00Z"}
+{"incident_number": "1091", "title": "High CPU Usage", "service": "notification-worker", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T08:09:00Z"}
+{"incident_number": "1136", "title": "Elevated Latency", "service": "billing-service", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T11:25:00Z"}
+{"incident_number": "1055", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T09:18:00Z"}
+{"incident_number": "1037", "title": "Queue Backup", "service": "user-db", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T09:10:00Z"}
+{"incident_number": "1018", "title": "Database Connection Drops", "service": "user-db", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T08:59:00Z"}
+{"incident_number": "1054", "title": "Database Connection Drops", "service": "user-db", "repository": "coral-inventory", "urgency": "high", "created_at": "2026-05-26T11:09:00Z"}
+{"incident_number": "1009", "title": "Elevated Latency", "service": "payment-gateway", "repository": "coral-inventory", "urgency": "high", "created_at": "2026-05-26T09:23:00Z"}
+{"incident_number": "1093", "title": "Elevated Latency", "service": "payment-gateway", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T10:37:00Z"}
+{"incident_number": "1107", "title": "Database Connection Drops", "service": "auth-service", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T09:36:00Z"}
+{"incident_number": "1175", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T08:12:00Z"}
+{"incident_number": "1028", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-inventory", "urgency": "high", "created_at": "2026-05-26T08:52:00Z"}
+{"incident_number": "1044", "title": "High CPU Usage", "service": "payment-gateway", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T10:02:00Z"}
+{"incident_number": "1056", "title": "Elevated Latency", "service": "user-db", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T10:47:00Z"}
+{"incident_number": "1154", "title": "High CPU Usage", "service": "user-db", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T11:23:00Z"}
+{"incident_number": "1045", "title": "Database Connection Drops", "service": "search-api", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T09:12:00Z"}
+{"incident_number": "1005", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T09:28:00Z"}
+{"incident_number": "1155", "title": "Database Connection Drops", "service": "inventory-db", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T11:23:00Z"}
+{"incident_number": "1139", "title": "Memory Warning", "service": "search-api", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T09:36:00Z"}
+{"incident_number": "1194", "title": "Memory Warning", "service": "notification-worker", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T09:23:00Z"}
+{"incident_number": "1186", "title": "Memory Warning", "service": "notification-worker", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T10:34:00Z"}
+{"incident_number": "1164", "title": "Queue Backup", "service": "search-api", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T11:09:00Z"}
+{"incident_number": "1135", "title": "Elevated Latency", "service": "auth-service", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T08:14:00Z"}
+{"incident_number": "1006", "title": "Elevated Latency", "service": "search-api", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T11:34:00Z"}
+{"incident_number": "1075", "title": "Database Connection Drops", "service": "user-db", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T11:09:00Z"}
+{"incident_number": "1165", "title": "Database Connection Drops", "service": "user-db", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T10:27:00Z"}
+{"incident_number": "1104", "title": "Database Connection Drops", "service": "notification-worker", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T10:30:00Z"}
+{"incident_number": "1002", "title": "Database Connection Drops", "service": "auth-service", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T08:27:00Z"}
+{"incident_number": "1068", "title": "Database Connection Drops", "service": "billing-service", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T11:38:00Z"}
+{"incident_number": "1133", "title": "Elevated Latency", "service": "search-api", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T11:18:00Z"}
+{"incident_number": "1027", "title": "High CPU Usage", "service": "user-db", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T11:07:00Z"}
+{"incident_number": "1039", "title": "Database Connection Drops", "service": "notification-worker", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T11:39:00Z"}
+{"incident_number": "1158", "title": "Queue Backup", "service": "auth-service", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T10:04:00Z"}
+{"incident_number": "1031", "title": "Database Connection Drops", "service": "notification-worker", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T11:33:00Z"}
+{"incident_number": "1015", "title": "Memory Warning", "service": "notification-worker", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T09:12:00Z"}
+{"incident_number": "1004", "title": "High CPU Usage", "service": "billing-service", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T08:13:00Z"}
+{"incident_number": "1042", "title": "API latency spike in us-east-1", "service": "auth-service", "repository": "coral-auth", "urgency": "high", "created_at": "2026-05-26T10:15:00Z"}
+{"incident_number": "1061", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T10:14:00Z"}
+{"incident_number": "1033", "title": "Database Connection Drops", "service": "auth-service", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T10:09:00Z"}
+{"incident_number": "1023", "title": "Queue Backup", "service": "user-db", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T11:00:00Z"}
+{"incident_number": "1185", "title": "Database Connection Drops", "service": "user-db", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T11:03:00Z"}
+{"incident_number": "1003", "title": "High CPU Usage", "service": "billing-service", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T09:17:00Z"}
+{"incident_number": "1184", "title": "Memory Warning", "service": "search-api", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T09:38:00Z"}
+{"incident_number": "1026", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T11:23:00Z"}
+{"incident_number": "1083", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T08:04:00Z"}
+{"incident_number": "1173", "title": "High CPU Usage", "service": "user-db", "repository": "coral-auth", "urgency": "high", "created_at": "2026-05-26T09:38:00Z"}
+{"incident_number": "1080", "title": "Elevated Latency", "service": "search-api", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T11:54:00Z"}
+{"incident_number": "1032", "title": "Queue Backup", "service": "auth-service", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T08:15:00Z"}
+{"incident_number": "1008", "title": "Database Connection Drops", "service": "auth-service", "repository": "coral-auth", "urgency": "high", "created_at": "2026-05-26T11:39:00Z"}
+{"incident_number": "1125", "title": "Queue Backup", "service": "search-api", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T11:29:00Z"}
+{"incident_number": "1072", "title": "Memory Warning", "service": "payment-gateway", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T09:41:00Z"}
+{"incident_number": "1077", "title": "Memory Warning", "service": "inventory-db", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T08:46:00Z"}
+{"incident_number": "1082", "title": "Elevated Latency", "service": "billing-service", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T08:35:00Z"}
+{"incident_number": "1074", "title": "Elevated Latency", "service": "auth-service", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T09:17:00Z"}
+{"incident_number": "1119", "title": "Database Connection Drops", "service": "user-db", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T11:18:00Z"}
+{"incident_number": "1112", "title": "Elevated Latency", "service": "payment-gateway", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T08:18:00Z"}
+{"incident_number": "1110", "title": "Elevated Latency", "service": "auth-service", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T09:22:00Z"}
+{"incident_number": "1050", "title": "Queue Backup", "service": "auth-service", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T09:26:00Z"}
+{"incident_number": "1177", "title": "Queue Backup", "service": "user-db", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T11:23:00Z"}
+{"incident_number": "1129", "title": "Database Connection Drops", "service": "auth-service", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T08:17:00Z"}
+{"incident_number": "1066", "title": "Database Connection Drops", "service": "search-api", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T09:47:00Z"}
+{"incident_number": "1169", "title": "Database Connection Drops", "service": "inventory-db", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T09:02:00Z"}
+{"incident_number": "1067", "title": "Memory Warning", "service": "billing-service", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T11:44:00Z"}
+{"incident_number": "1105", "title": "Database Connection Drops", "service": "auth-service", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T09:05:00Z"}
+{"incident_number": "1041", "title": "Memory Warning", "service": "payment-gateway", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T09:53:00Z"}
+{"incident_number": "1099", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T08:56:00Z"}
+{"incident_number": "1076", "title": "Elevated Latency", "service": "payment-gateway", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T08:46:00Z"}
+{"incident_number": "1138", "title": "High CPU Usage", "service": "billing-service", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T10:29:00Z"}
+{"incident_number": "1043", "title": "Queue Backup", "service": "auth-service", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T11:31:00Z"}
+{"incident_number": "1085", "title": "High CPU Usage", "service": "notification-worker", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T10:37:00Z"}
+{"incident_number": "1060", "title": "High CPU Usage", "service": "notification-worker", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T11:29:00Z"}
+{"incident_number": "1149", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T09:42:00Z"}
+{"incident_number": "1021", "title": "Database Connection Drops", "service": "billing-service", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T09:48:00Z"}
+{"incident_number": "1059", "title": "Memory Warning", "service": "billing-service", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T09:38:00Z"}
+{"incident_number": "1166", "title": "Elevated Latency", "service": "search-api", "repository": "coral-auth", "urgency": "high", "created_at": "2026-05-26T10:37:00Z"}
+{"incident_number": "1062", "title": "Database Connection Drops", "service": "search-api", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T09:57:00Z"}
+{"incident_number": "1014", "title": "Memory Warning", "service": "billing-service", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T08:21:00Z"}
+{"incident_number": "1153", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T11:05:00Z"}
+{"incident_number": "1187", "title": "Elevated Latency", "service": "billing-service", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T11:46:00Z"}
+{"incident_number": "1047", "title": "Elevated Latency", "service": "notification-worker", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T08:05:00Z"}
+{"incident_number": "1115", "title": "Memory Warning", "service": "search-api", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T08:43:00Z"}
+{"incident_number": "1108", "title": "Memory Warning", "service": "inventory-db", "repository": "coral-inventory", "urgency": "high", "created_at": "2026-05-26T11:27:00Z"}
+{"incident_number": "1097", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T11:36:00Z"}
+{"incident_number": "1134", "title": "Memory Warning", "service": "payment-gateway", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T09:41:00Z"}
+{"incident_number": "1128", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T11:39:00Z"}
+{"incident_number": "1046", "title": "High CPU Usage", "service": "payment-gateway", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T10:06:00Z"}
+{"incident_number": "1007", "title": "High CPU Usage", "service": "billing-service", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T08:24:00Z"}
+{"incident_number": "1024", "title": "High CPU Usage", "service": "user-db", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T11:21:00Z"}
+{"incident_number": "1012", "title": "Elevated Latency", "service": "auth-service", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T09:54:00Z"}
+{"incident_number": "1180", "title": "Queue Backup", "service": "user-db", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T11:37:00Z"}
+{"incident_number": "1188", "title": "Queue Backup", "service": "notification-worker", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T08:33:00Z"}
+{"incident_number": "1148", "title": "Queue Backup", "service": "search-api", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T08:39:00Z"}
+{"incident_number": "1126", "title": "Memory Warning", "service": "notification-worker", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T09:17:00Z"}
+{"incident_number": "1001", "title": "Memory Warning", "service": "inventory-db", "repository": "coral-inventory", "urgency": "high", "created_at": "2026-05-26T10:08:00Z"}
+{"incident_number": "1022", "title": "Database Connection Drops", "service": "search-api", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T09:08:00Z"}
+{"incident_number": "1094", "title": "Memory Warning", "service": "search-api", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T08:22:00Z"}
+{"incident_number": "1151", "title": "High CPU Usage", "service": "search-api", "repository": "coral-auth", "urgency": "high", "created_at": "2026-05-26T09:47:00Z"}
+{"incident_number": "1196", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-inventory", "urgency": "high", "created_at": "2026-05-26T10:52:00Z"}
+{"incident_number": "1101", "title": "High CPU Usage", "service": "billing-service", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T11:17:00Z"}
+{"incident_number": "1052", "title": "Database Connection Drops", "service": "user-db", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T11:19:00Z"}
+{"incident_number": "1152", "title": "Database Connection Drops", "service": "user-db", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T08:43:00Z"}
+{"incident_number": "1010", "title": "Elevated Latency", "service": "billing-service", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T10:38:00Z"}
+{"incident_number": "1200", "title": "Memory Warning", "service": "inventory-db", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T09:38:00Z"}
+{"incident_number": "1141", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T11:48:00Z"}
+{"incident_number": "1195", "title": "Queue Backup", "service": "payment-gateway", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T10:58:00Z"}
+{"incident_number": "1095", "title": "Elevated Latency", "service": "search-api", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T08:35:00Z"}
+{"incident_number": "1192", "title": "Elevated Latency", "service": "payment-gateway", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T08:31:00Z"}
+{"incident_number": "1144", "title": "Database Connection Drops", "service": "billing-service", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T09:39:00Z"}
+{"incident_number": "1183", "title": "High CPU Usage", "service": "payment-gateway", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T09:19:00Z"}
+{"incident_number": "1124", "title": "Queue Backup", "service": "user-db", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T10:56:00Z"}
+{"incident_number": "1035", "title": "Queue Backup", "service": "user-db", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T09:54:00Z"}
+{"incident_number": "1065", "title": "Memory Warning", "service": "inventory-db", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T10:18:00Z"}
+{"incident_number": "1157", "title": "Memory Warning", "service": "auth-service", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T10:24:00Z"}
+{"incident_number": "1071", "title": "Queue Backup", "service": "auth-service", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T11:09:00Z"}
+{"incident_number": "1197", "title": "Elevated Latency", "service": "user-db", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T09:43:00Z"}
+{"incident_number": "1048", "title": "Queue Backup", "service": "auth-service", "repository": "coral-inventory", "urgency": "high", "created_at": "2026-05-26T09:28:00Z"}
+{"incident_number": "1118", "title": "Database Connection Drops", "service": "inventory-db", "repository": "coral-payments", "urgency": "high", "created_at": "2026-05-26T08:56:00Z"}
+{"incident_number": "1078", "title": "Elevated Latency", "service": "search-api", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T09:33:00Z"}
+{"incident_number": "1092", "title": "Database Connection Drops", "service": "auth-service", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T08:04:00Z"}
+{"incident_number": "1193", "title": "Memory Warning", "service": "auth-service", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T11:27:00Z"}
+{"incident_number": "1132", "title": "Database Connection Drops", "service": "auth-service", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T10:12:00Z"}
+{"incident_number": "1113", "title": "Elevated Latency", "service": "notification-worker", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T08:17:00Z"}
+{"incident_number": "1051", "title": "Elevated Latency", "service": "user-db", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T10:15:00Z"}
+{"incident_number": "1150", "title": "Queue Backup", "service": "inventory-db", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T10:59:00Z"}
+{"incident_number": "1053", "title": "Queue Backup", "service": "user-db", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T10:25:00Z"}
+{"incident_number": "1130", "title": "Elevated Latency", "service": "user-db", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T11:52:00Z"}
+{"incident_number": "1016", "title": "Memory Warning", "service": "notification-worker", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T09:28:00Z"}
+{"incident_number": "1011", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-search", "urgency": "high", "created_at": "2026-05-26T08:18:00Z"}
+{"incident_number": "1161", "title": "High CPU Usage", "service": "user-db", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T10:16:00Z"}
+{"incident_number": "1090", "title": "Database Connection Drops", "service": "search-api", "repository": "coral-auth", "urgency": "high", "created_at": "2026-05-26T10:30:00Z"}
+{"incident_number": "1143", "title": "Queue Backup", "service": "inventory-db", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T09:02:00Z"}
+{"incident_number": "1042", "title": "Elevated Latency", "service": "payment-gateway", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T09:53:00Z"}
+{"incident_number": "1127", "title": "Queue Backup", "service": "billing-service", "repository": "coral-auth", "urgency": "high", "created_at": "2026-05-26T10:18:00Z"}
+{"incident_number": "1168", "title": "Memory Warning", "service": "auth-service", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T10:43:00Z"}
+{"incident_number": "1146", "title": "Database Connection Drops", "service": "notification-worker", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T10:39:00Z"}
+{"incident_number": "1089", "title": "High CPU Usage", "service": "search-api", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T08:49:00Z"}
+{"incident_number": "1088", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T11:23:00Z"}
+{"incident_number": "1111", "title": "Elevated Latency", "service": "search-api", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T08:37:00Z"}
+{"incident_number": "1114", "title": "Memory Warning", "service": "auth-service", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T08:06:00Z"}
+{"incident_number": "1160", "title": "High CPU Usage", "service": "auth-service", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T08:28:00Z"}
+{"incident_number": "1063", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T11:20:00Z"}
+{"incident_number": "1199", "title": "Database Connection Drops", "service": "payment-gateway", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T08:57:00Z"}
+{"incident_number": "1013", "title": "Memory Warning", "service": "user-db", "repository": "coral-notifications", "urgency": "high", "created_at": "2026-05-26T08:09:00Z"}
+{"incident_number": "1036", "title": "Queue Backup", "service": "search-api", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T09:18:00Z"}
+{"incident_number": "1057", "title": "Queue Backup", "service": "inventory-db", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T11:26:00Z"}
+{"incident_number": "1079", "title": "Memory Warning", "service": "search-api", "repository": "coral-search", "urgency": "low", "created_at": "2026-05-26T11:06:00Z"}
+{"incident_number": "1163", "title": "Elevated Latency", "service": "auth-service", "repository": "coral-inventory", "urgency": "high", "created_at": "2026-05-26T10:10:00Z"}
+{"incident_number": "1156", "title": "Elevated Latency", "service": "inventory-db", "repository": "coral-users", "urgency": "low", "created_at": "2026-05-26T11:40:00Z"}
+{"incident_number": "1167", "title": "Elevated Latency", "service": "user-db", "repository": "coral-notifications", "urgency": "low", "created_at": "2026-05-26T09:34:00Z"}
+{"incident_number": "1087", "title": "High CPU Usage", "service": "user-db", "repository": "coral-payments", "urgency": "low", "created_at": "2026-05-26T09:51:00Z"}
+{"incident_number": "1182", "title": "Memory Warning", "service": "auth-service", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T10:05:00Z"}
+{"incident_number": "1081", "title": "Database Connection Drops", "service": "inventory-db", "repository": "coral-auth", "urgency": "low", "created_at": "2026-05-26T09:03:00Z"}
+{"incident_number": "1109", "title": "High CPU Usage", "service": "inventory-db", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T09:22:00Z"}
+{"incident_number": "1106", "title": "Memory Warning", "service": "auth-service", "repository": "coral-billing", "urgency": "high", "created_at": "2026-05-26T11:40:00Z"}
+{"incident_number": "1084", "title": "Elevated Latency", "service": "user-db", "repository": "coral-auth", "urgency": "high", "created_at": "2026-05-26T11:16:00Z"}
+{"incident_number": "1019", "title": "Elevated Latency", "service": "payment-gateway", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T08:01:00Z"}
+{"incident_number": "1159", "title": "Memory Warning", "service": "billing-service", "repository": "coral-users", "urgency": "high", "created_at": "2026-05-26T09:16:00Z"}
+{"incident_number": "1145", "title": "Memory Warning", "service": "payment-gateway", "repository": "coral-billing", "urgency": "low", "created_at": "2026-05-26T09:01:00Z"}
+{"incident_number": "1123", "title": "High CPU Usage", "service": "inventory-db", "repository": "coral-inventory", "urgency": "low", "created_at": "2026-05-26T10:32:00Z"}

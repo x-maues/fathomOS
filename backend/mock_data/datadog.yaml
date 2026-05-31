@@ -1,0 +1,21 @@
+name: datadog
+version: 0.1.0
+dsl_version: 3
+backend: jsonl
+tables:
+  - name: metrics
+    description: Mock Datadog metrics and anomalies
+    source:
+      location: file:///home/maues/Arbeit/kraken/backend/mock_data/
+      glob: "datadog.jsonl"
+    columns:
+      - name: metric_id
+        type: Utf8
+      - name: metric_name
+        type: Utf8
+      - name: service
+        type: Utf8
+      - name: value
+        type: Float64
+      - name: timestamp
+        type: Utf8

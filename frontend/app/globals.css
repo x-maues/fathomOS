@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-background: #050505;
+  --color-foreground: #ededed;
+  --font-sans: "Montserrat", var(--font-geist-sans), sans-serif;
+  --font-mono: "JetBrains Mono", var(--font-geist-mono), monospace;
+}
+
+@keyframes slide-up-fade {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+:root {
+  --background: #050505;
+  --foreground: #ededed;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  background-color: #050505;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.glass-panel {
+  background: #0a0a0a;
+  border: 1px solid #1a1a1a;
+  border-radius: 8px;
+}
+
+.glass-panel-heavy {
+  background: #0d0d0d;
+  border: 1px solid #222;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.animate-slide-up {
+  animation: slide-up-fade 0.4s ease-out forwards;
+}
+
+/* Professional Markdown Typography */
+.prose-fathomOS {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  color: #d1d5db;
+}
+
+.prose-fathomOS p {
+  margin-bottom: 1.25em;
+}
+
+.prose-fathomOS h1,
+.prose-fathomOS h2,
+.prose-fathomOS h3,
+.prose-fathomOS h4 {
+  color: #f3f4f6;
+  font-weight: 600;
+  margin-top: 1.75em;
+  margin-bottom: 0.75em;
+  letter-spacing: -0.02em;
+}
+
+.prose-fathomOS h2 {
+  font-size: 1.25rem;
+  border-bottom: 1px solid #222;
+  padding-bottom: 0.25em;
+}
+
+.prose-fathomOS h3 {
+  font-size: 1.1rem;
+}
+
+.prose-fathomOS ul,
+.prose-fathomOS ol {
+  padding-left: 1.5em;
+  margin-bottom: 1.25em;
+}
+
+.prose-fathomOS ul {
+  list-style-type: disc;
+}
+
+.prose-fathomOS ol {
+  list-style-type: decimal;
+}
+
+.prose-fathomOS li {
+  margin-bottom: 0.5em;
+}
+
+.prose-fathomOS strong {
+  color: #fff;
+  font-weight: 600;
+}
+
+.prose-fathomOS code {
+  background: #1a1a1a;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  color: #38bdf8;
+}
+
+.prose-fathomOS pre {
+  background: #0d0d0d;
+  border: 1px solid #222;
+  padding: 1em;
+  border-radius: 6px;
+  overflow-x: auto;
+  margin-bottom: 1.25em;
+}
+
+.prose-fathomOS pre code {
+  background: transparent;
+  padding: 0;
+  color: #e5e7eb;
+}

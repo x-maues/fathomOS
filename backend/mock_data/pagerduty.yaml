@@ -1,0 +1,23 @@
+name: pagerduty
+version: 0.1.0
+dsl_version: 3
+backend: jsonl
+tables:
+  - name: incidents
+    description: Mock PagerDuty incidents
+    source:
+      location: file:///home/maues/Arbeit/kraken/backend/mock_data/
+      glob: "pagerduty.jsonl"
+    columns:
+      - name: incident_number
+        type: Utf8
+      - name: title
+        type: Utf8
+      - name: service
+        type: Utf8
+      - name: repository
+        type: Utf8
+      - name: urgency
+        type: Utf8
+      - name: created_at
+        type: Utf8

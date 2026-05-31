@@ -1,0 +1,19 @@
+name: statusgator
+version: 0.1.0
+dsl_version: 3
+backend: jsonl
+tables:
+  - name: outages
+    description: Mock StatusGator provider outages
+    source:
+      location: file:///home/maues/Arbeit/kraken/backend/mock_data/
+      glob: "statusgator.jsonl"
+    columns:
+      - name: status_id
+        type: Utf8
+      - name: provider_name
+        type: Utf8
+      - name: status
+        type: Utf8
+      - name: reported_at
+        type: Utf8

@@ -1,0 +1,21 @@
+name: github_mock
+version: 0.1.0
+dsl_version: 3
+backend: jsonl
+tables:
+  - name: pull_requests
+    description: Mock GitHub PRs
+    source:
+      location: file:///home/maues/Arbeit/kraken/backend/mock_data/
+      glob: "github.jsonl"
+    columns:
+      - name: pr_number
+        type: Int64
+      - name: title
+        type: Utf8
+      - name: repository
+        type: Utf8
+      - name: merged_at
+        type: Utf8
+      - name: author
+        type: Utf8
